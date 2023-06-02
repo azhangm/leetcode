@@ -16,3 +16,14 @@
 |最小栈|https://leetcode.cn/problems/min-stack/|medium|
 |逆波兰表达式求值|https://leetcode.cn/problems/evaluate-reverse-polish-notation/|easy|
 |基本计算器|https://leetcode.cn/problems/basic-calculator/|hard|
+
+哈希表、集合、映射
+
+| 题目 | 链接 | 难度 |
+| :--: | :--- | :--: |
+| 两数之和| https://leetcode.cn/problems/two-sum/ |easy|
+|模拟行走机器人|https://leetcode.cn/problems/walking-robot-simulation/|medium|
+|字母异位词分组|https://leetcode.cn/problems/group-anagrams/|medium|
+|串联所有单词的字串|https://leetcode.cn/problems/substring-with-concatenation-of-all-words/|hard|
+|LRU缓存|https://leetcode.cn/problems/lru-cache/|medium|
+
