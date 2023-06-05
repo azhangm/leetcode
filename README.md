@@ -27,3 +27,16 @@
 |串联所有单词的字串|https://leetcode.cn/problems/substring-with-concatenation-of-all-words/|hard|
 |LRU缓存|https://leetcode.cn/problems/lru-cache/|medium|
 
+递归/分治/树
+|           题目           | 链接                                                         |  难度  |
+| :----------------------: | :----------------------------------------------------------- | :----: |
+|           子集           | https://leetcode.cn/problems/subsets/                        | medium |
+|           组合           | https://leetcode.cn/problems/combinations/                   | medium |
+|          全排列          | https://leetcode.cn/problems/permutations/                   | medium |
+|         全排列Ⅱ          | https://leetcode.cn/problems/permutations-ii/                |  hard  |
+|      二叉树中序遍历      | https://leetcode.cn/problems/binary-tree-inorder-traversal/  |  easy  |
+|      N叉树层序遍历       | https://leetcode.cn/problems/n-ary-tree-level-order-traversal/ | medium |
+| 二叉树的序列化和反序列化 | https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/ |  hard  |
+|  从前中序遍历构造二叉树  | https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ | medium |
+|           LCA            | https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/ | medium |
+
